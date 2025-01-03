@@ -13,7 +13,6 @@ I'm a passionate Front End Web and Mobile Developer with a keen eye for UI/UX De
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![Dart](https://img.icons8.com/color/48/000000/dart.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
 
 ## 📫 Let's Connect
 
